@@ -6,7 +6,7 @@
 -->
 
 # 💫 About Me:
-- 🔭 I'm currently working on creating a personalised shares purchasing app based on darvas box theory.
+- 🔭 I'm currently working on creating a personalised automated shares purchasing app based on darvas box theory.
 - 🌱 I'm currently learning ReactJS.
 - 👯 I'm looking to collaborate on any open source react-native project.
 - 🤔 I'm looking for help with animations in react-native.
